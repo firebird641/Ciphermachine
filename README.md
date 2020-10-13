@@ -1,7 +1,8 @@
 # Ciphermachine
 A python-based cryptographic library. Helps you to construct modern symmetric encryption algorithms and hash functions. 
 
-## Importing the Modules
+## Getting started
+To get everything running, you first need to import the following modules:
 ~~~python
 import ciphermachine.bit_operations as o # contains binary operation functions
 import ciphermachine.data_encoding as e # contains encoding functions for data
@@ -10,7 +11,7 @@ import ciphermachine.crypto_constructors as c # contains cryptographic functions
 import ciphermachine.crypto_analytics as a # contains cryptoanalytic functions
 ~~~
 
-## more detailed Documentation
+## Documentation
 [Documentation.md](DOCUMENTATION.md)
 
 ## List of features
