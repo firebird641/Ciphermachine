@@ -10,6 +10,9 @@ import ciphermachine.crypto_constructors as c # contains cryptographic functions
 import ciphermachine.crypto_analytics as a # contains cryptoanalytic functions
 ~~~
 
+## more detailed Documentation
+[Documentation.md](DOCUMENTATION.md)
+
 ## List of features
 ### Cryptographic Functions
 - Blockcipher-Modes
