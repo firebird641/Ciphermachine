@@ -64,3 +64,4 @@ import ciphermachine.crypto_analytics as a # contains cryptoanalytic functions
 - Random Substitution-Box (non-bijective)
 - Random Permutation-Box (non-bijective)
 
+## This is experimental / educational content. Do not rely on it for security applications.
