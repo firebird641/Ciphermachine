@@ -25,7 +25,6 @@ import ciphermachine.crypto_analytics as a # contains cryptoanalytic functions
 - Substitution-Permutation Network
 - Feistel-Network
 - Linear Feedback Shift Register
-- Keccak-F-Function
 - Davies Meyer Compression
 - Matyas Meyer Oseas Compression
 - Miyaguchi Preneel Compression
